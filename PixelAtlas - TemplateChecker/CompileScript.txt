@@ -1,0 +1,2 @@
+cd C:\Python\TemplateChecker
+pyinstaller -F -n TemplateChecker -i PixelAtlas.png main.pyw
