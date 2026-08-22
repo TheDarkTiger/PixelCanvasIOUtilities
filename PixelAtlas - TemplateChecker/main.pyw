@@ -245,7 +245,7 @@ class PixelCanvasChecker:
                                      relief="flat", state="normal", 
                                      bg=self.root.cget("bg"),
                                      font=("TkDefaultFont",),  # Match default font
-                                     width=25,  # Set specific width
+                                     width=30,  # Set specific width
                                      cursor="arrow")  # Normal cursor instead of text cursor
         self.complete_label.tag_configure("center", justify="center")
         self.complete_label.insert("1.0", "0 Errors | 0% Complete", "center")
