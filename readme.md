@@ -22,6 +22,4 @@ I previously used one created by _0xA663_ , but this one is created from scratch
 With the new update, I sometime clicked on the location buttons, wasting time to go back where I was 'working'.  
 This script removes the buttons "Explore a random city" and "Go to my location".
 
-## Python script
 
-To come: a utility to grab part of the canvas.
